@@ -2,7 +2,7 @@
 title: Let's Talk Digital 2023 Conference - 15th of June
 date: 2022-10-10 16:21
 taxonomy:
-    category: blog
+    category: Quarterly Meetings
     post_tag:
         - digital
         - innovation
