@@ -14,6 +14,8 @@ taxonomy:
 
 So I am not one to write blogs about my thoughts, mainly just updates on meetings I am hosting. Today things are different.
 
+TBC
+
 
 
 Shout out to Ron Lach for this blog's thumbnail (https://www.pexels.com/photo/homeless-man-holding-cardboard-in-hands-9830110/)
