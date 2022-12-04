@@ -18,3 +18,5 @@ The most recent inaugural Let's Talk Digital Conference in March this year was a
 <strong>Thursday 15th of June, 2023</strong>
 
 We will keep you up to date on the programm!
+
+Image by <a href="https://pixabay.com/users/sncr_group-4076118/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3518465">SNCR GROUP</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3518465">Pixabay</a>
