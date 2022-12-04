@@ -8,9 +8,6 @@ taxonomy:
         - clinical
         - informatics
         - career
-custom_fields:
-        - informatics
-    _thumbnail_id: 157
 ---
 
 # Let's Talk About Careers in Clinical Informatics
