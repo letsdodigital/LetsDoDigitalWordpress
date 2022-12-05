@@ -26,10 +26,9 @@ What I reaslised when I spoke to [Anita Phung](https://www.linkedin.com/in/drani
 
 Let's talk about clinicians-who-code. There is no exact definition, and I have had many conversation about improving on the name. What I have settled for is:
 
-~~~
-## Clinician-who-codes:
-"Someone that understands, in deepth, the clinical area being studied and the coding language that is needed to provide great digital innovation to said clinical area. One does not need a formal clinical qualification to satisfy the "clinical" part of this name"
-~~~
+>## Clinician-who-codes:
+>"Someone that understands, in deepth, the clinical area being studied and the coding language that is needed to provide great digital innovation to said clinical area. One does not need a formal clinical qualification to satisfy the "clinical" part of this name"
+
 
 So you don't need to be a doctor, nurse, pharmacist, midwife etc etc to be a clinician-who-codes, just someone that has learnt about the clinical area that needs digital improvement and then can apply said improvement. My friend and colleague [Grant Vallance](https://www.linkedin.com/in/grant-vallance-0531a736/) nicely fits this bill.
 
