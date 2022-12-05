@@ -26,16 +26,17 @@ What I reaslised when I spoke to [Anita Phung](https://www.linkedin.com/in/drani
 
 Let's talk about clinicians-who-code. There is no exact definition, and I have had many conversation about improving on the name. What I have settled for is:
 
-```
+~~~
+## Clinician-who-codes:
 "Someone that understands, in deepth, the clinical area being studied and the coding language that is needed to provide great digital innovation to said clinical area. One does not need a formal clinical qualification to satisfy the "clinical" part of this name"
-```
+~~~
 
 So you don't need to be a doctor, nurse, pharmacist, midwife etc etc to be a clinician-who-codes, just someone that has learnt about the clinical area that needs digital improvement and then can apply said improvement. My friend and colleague [Grant Vallance](https://www.linkedin.com/in/grant-vallance-0531a736/) nicely fits this bill.
 
 So anyone can be a clinician-who-codes really, it is just about mindset and learning. I woudl argue (but of course I would as I am one) that we needs 100s, if not 1000s of clinicians-who-code in the NHS to tackle bad digital implementations and break them down, rebuild them and build new. We need digital systems that improve patient management, experience and outcomes. We need systems that reduce the workloads and improve the workflows of our fellow staff. We have too many digital systems used across the NHS that just are not fit for purpose. Let's build from the ground up. Let's get our junior doctors, nurses, pharmacists, midwives... and those inspiring coders that just want to make things better. We need to start having these conversations about how to do things better. We need to have career paths for our junior clinical informaticians that are not just aimed at high level managerial NHS digital roles. We need to use the passion that is so evident in these young people provide them jobs and just allow them to improve things for everyone. The ways we have been doing things so far in the NHS has had very variable results. It is time to let the new blood show us the way.
 
 
-## So Let's Do Digital right. Let's get Clinicians-who-code working!
+### So Let's Do Digital right. Let's get Clinicians-who-code working!
 
 
 Shout out to Ron Lach for this blog's thumbnail (https://www.pexels.com/photo/homeless-man-holding-cardboard-in-hands-9830110/)
