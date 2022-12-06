@@ -1,6 +1,6 @@
 ---
 title: Let's Talk About Careers in Clinical Informatics and White Swans
-post_date: 2022-09-01 20:14:59
+post_date: 2022-12-05 22:00:00
 taxonomy:
     category: blog
     post_tag:
