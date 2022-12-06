@@ -7,6 +7,7 @@ taxonomy:
         - clinical
         - informatics
         - career
+        - swans
 ---
 
 # Let's Talk About Careers in Clinical Informatics and White Swans

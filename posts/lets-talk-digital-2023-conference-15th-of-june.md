@@ -6,6 +6,7 @@ taxonomy:
         - digital
         - innovation
         - meeting
+        - June
 ---
 
 # Let's Talk Digital 2023 Conference - 15th of June
