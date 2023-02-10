@@ -1,28 +1,28 @@
-White Swan Project
+# Overview 
 
-Python
+### Python
 w3schools/python/default.asp
 print("Hello world")
 variables, inteteger and string
 for loops
 while loops
 
-Documenting
+### Documenting
 mkdocs (for python)
 
-Environment
+### Environment
 dependencies - install programs, versions, env variables
 virtual environments
 containers / dockers
 
-Git
+### Git
 github
 push
 pull
 fork
 pull request
 
-Future thoughts
+### Future thoughts
 Junipter labs (environments set up for starting coding quickly)
 Learning on Let's Talk Digital
 HealthENV - WSP lot getting involved with this work
