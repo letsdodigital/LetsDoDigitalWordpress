@@ -24,5 +24,6 @@ pull request
 
 ### Future thoughts
 Junipter labs (environments set up for starting coding quickly)
+Jupyther Notebooks
 Learning on Let's Talk Digital
 HealthENV - WSP lot getting involved with this work
